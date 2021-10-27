@@ -5,7 +5,6 @@ import Header from "./Header";
 function Body({ spotify }) {
   return (
     <div className="body">
-      I am the body
       <Header spotify={spotify}/>
     </div>
   )
