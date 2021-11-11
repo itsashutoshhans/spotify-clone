@@ -1,0 +1,124 @@
+{
+  "href" : "https://api.spotify.com/v1/users/s1zr3unycytufvf1wlyviqvhb/playlists?offset=0&limit=20",
+  "items" : [ {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2xPLyQVb50YqGwicAnuDNC"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2xPLyQVb50YqGwicAnuDNC",
+    "id" : "2xPLyQVb50YqGwicAnuDNC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27315784f5212050cf2e67f1935ab67616d0000b2733e42854096da9a3b1ca901c9ab67616d0000b2737af5fdc5ef048a68db62b85fab67616d0000b273bf7c317a63c4f128b8823406",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27315784f5212050cf2e67f1935ab67616d0000b2733e42854096da9a3b1ca901c9ab67616d0000b2737af5fdc5ef048a68db62b85fab67616d0000b273bf7c317a63c4f128b8823406",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27315784f5212050cf2e67f1935ab67616d0000b2733e42854096da9a3b1ca901c9ab67616d0000b2737af5fdc5ef048a68db62b85fab67616d0000b273bf7c317a63c4f128b8823406",
+      "width" : 60
+    } ],
+    "name" : "Calm Down",
+    "owner" : {
+      "display_name" : "Vishal Hans",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ydnxflzt7kaid30h4q5jjumeb"
+      },
+      "href" : "https://api.spotify.com/v1/users/ydnxflzt7kaid30h4q5jjumeb",
+      "id" : "ydnxflzt7kaid30h4q5jjumeb",
+      "type" : "user",
+      "uri" : "spotify:user:ydnxflzt7kaid30h4q5jjumeb"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MTA1LDdiOTc3MmI5ZjU3OTljNGVjMjcwMDkxMzJlNzRhODg3YTA2NjhhYjM=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2xPLyQVb50YqGwicAnuDNC/tracks",
+      "total" : 62
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2xPLyQVb50YqGwicAnuDNC"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2bV8LwxOyRUt0fdGh54C9m"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2bV8LwxOyRUt0fdGh54C9m",
+    "id" : "2bV8LwxOyRUt0fdGh54C9m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273e4c3db3e7ebfc22bc080f334",
+      "width" : 640
+    } ],
+    "name" : "Folk & Acoustic",
+    "owner" : {
+      "display_name" : "Ashutosh",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/s1zr3unycytufvf1wlyviqvhb"
+      },
+      "href" : "https://api.spotify.com/v1/users/s1zr3unycytufvf1wlyviqvhb",
+      "id" : "s1zr3unycytufvf1wlyviqvhb",
+      "type" : "user",
+      "uri" : "spotify:user:s1zr3unycytufvf1wlyviqvhb"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NCw3Nzc5NmRkODcwNjcyYjMzMzg3ZGE0NWQ5MTg1MDBjMzEwMzhlNWFh",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2bV8LwxOyRUt0fdGh54C9m/tracks",
+      "total" : 2
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2bV8LwxOyRUt0fdGh54C9m"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7l9k1bKSZ4cbwyBXc9ItIA"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7l9k1bKSZ4cbwyBXc9ItIA",
+    "id" : "7l9k1bKSZ4cbwyBXc9ItIA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27319130c3e840d80db83d14c97ab67616d0000b273c5545f737b16ad5ee767b62aab67616d0000b273dae669e0bc817fd2d2235fa6ab67616d0000b273e7fe7d656750737e8d369f95",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27319130c3e840d80db83d14c97ab67616d0000b273c5545f737b16ad5ee767b62aab67616d0000b273dae669e0bc817fd2d2235fa6ab67616d0000b273e7fe7d656750737e8d369f95",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27319130c3e840d80db83d14c97ab67616d0000b273c5545f737b16ad5ee767b62aab67616d0000b273dae669e0bc817fd2d2235fa6ab67616d0000b273e7fe7d656750737e8d369f95",
+      "width" : 60
+    } ],
+    "name" : "Hindi",
+    "owner" : {
+      "display_name" : "Ashutosh Hans",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/31mhztgzb2actvykojleq37g53dq"
+      },
+      "href" : "https://api.spotify.com/v1/users/31mhztgzb2actvykojleq37g53dq",
+      "id" : "31mhztgzb2actvykojleq37g53dq",
+      "type" : "user",
+      "uri" : "spotify:user:31mhztgzb2actvykojleq37g53dq"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NDcsZWJhYWMwNTVjZDhiMjEyM2Y3YjBiOGU1MTZmNjc2ODcwNDM2NGFkOQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7l9k1bKSZ4cbwyBXc9ItIA/tracks",
+      "total" : 42
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7l9k1bKSZ4cbwyBXc9ItIA"
+  } ],
+  "limit" : 20,
+  "next" : null,
+  "offset" : 0,
+  "previous" : null,
+  "total" : 3
+}

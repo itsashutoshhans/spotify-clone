@@ -1,0 +1,15 @@
+{
+  "display_name" : "Ashutosh",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/user/s1zr3unycytufvf1wlyviqvhb"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 0
+  },
+  "href" : "https://api.spotify.com/v1/users/s1zr3unycytufvf1wlyviqvhb",
+  "id" : "s1zr3unycytufvf1wlyviqvhb",
+  "images" : [ ],
+  "type" : "user",
+  "uri" : "spotify:user:s1zr3unycytufvf1wlyviqvhb"
+}

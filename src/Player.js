@@ -8,16 +8,12 @@ function Player({ spotify }) {
   return (
     <div className="player">
       <div className="player__body">
-        {/* sidebar */}
         <Sidebar />
-        {/* body */}
-        <Body />
+        <Body spotify={spotify} />
       </div>
-      
-    {/* Footer */}
-    <Footer />
+      <Footer spotify={spotify} />
     </div>
-  )
+  );
 }
 
 export default Player
